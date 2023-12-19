@@ -9,7 +9,7 @@
     "coinbase-api": "^0.3.1",
     "expo": "^21.0.0",
     "fb-watchman": "^2.0.0",
-    "firebase": "^4.3.0",
+    "firebase": "^4.5.2",
     "passport-coinbase": "^0.1.2",
     "querystring": "^0.2.0",
     "react": "16.0.0-alpha.12",
